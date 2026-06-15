@@ -13,7 +13,7 @@
 
 <br/>
 
-> A healthcare-focused ML web application that predicts student **attendance risk** and **fatigue levels** based on sleep behaviour, lifestyle patterns, and academic factors — delivering personalised, data-driven insights to support student well-being.
+> A healthcare-focused ML web application that predicts student **attendance risk** and **fatigue levels** based on sleep behaviour, lifestyle patterns, and academic factors — delivering personalised, data-driven insights to the support student well-being.
 
 <br/>
 
